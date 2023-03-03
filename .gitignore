@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+
+# never share this publicly
+setup/certificate
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Optional npm cache directory
+.npm
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Other
+.DS_Store
+package-lock.json
+
+

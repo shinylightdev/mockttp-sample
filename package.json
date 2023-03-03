@@ -1,0 +1,14 @@
+{
+  "name": "mockttp-sample",
+  "version": "1.0.0",
+  "description": "Mockttp Sample",
+  "main": "index.js",
+  "scripts": {    
+    "start": "node index.js"    
+  },
+  "author": "ShinyLight",
+  "license": "ISC",
+  "dependencies": {
+    "mockttp": "^3.7.0"
+  }
+}
